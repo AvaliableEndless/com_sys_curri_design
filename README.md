@@ -8,7 +8,8 @@
 <p>后端backed<br>
   mysql数据库，需要手动连接一下，在config改配置，创建好空的数据库就好了，表写了脚本，后端运行自动创建表，如果改了后端表关联之类的记得把原来的数据库删了不然可能会报错<br>
 创建好虚拟环境之后pip install -r requirements.txt即可<br>
-启动是python app.py
+启动是
+  'python app.py'
 
   
 </p>
